@@ -28,3 +28,5 @@
 }
 ```
 
+### How it should look
+![Timeline Image](./timeline.png)
