@@ -73,5 +73,13 @@ If you have any question don't hesitate to reach out
 
 ---
 
+## Submission
+- Create a repo (public or private your call)
+- Invite doron2402 and SaadFarooq-Dev to your repo
+- email us: doron@tryperdiem.com, saad@tryperdiem.com
+
+---
+
+
 **Good luck, and have fun! 🚀**
 _The Per Diem Engineering Team_
