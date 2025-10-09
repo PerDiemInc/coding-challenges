@@ -29,11 +29,13 @@ The app should support **subdomain-based store isolation** and **store-specific 
 
 ### 3. Backend
 - A small **Node.js + TypeScript API** that connects to a database.
+- The API supposed to be in a **priavte network** (meaning no access to the internet).
 - We use **PostgreSQL and Redis**, but feel free to use what you’re most comfortable with.
 - Keep things organized, typed, and easy to read.
 
 ### 4. Frontend
 - Use **Next.js (with TypeScript)** for the web UI.
+- The Next.js app will be in the public network.
 - Include basic pages:
   - `/` – loads the current store info
   - `/login` and `/signup` – handle authentication against your API
